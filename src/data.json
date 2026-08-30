@@ -1,0 +1,182 @@
+[
+  {
+    "id": "3c20f171-d15c-48a7-a350-3a4c455eaedb",
+    "slug": "achug",
+    "leftPageImage": "chung.jpg",
+    "title": "Trân trọng kính mời đến dự",
+    "senderName": "Lễ Tốt Nghiệp",
+    "personName": "Nguyễn Nam Khánh",
+    "openingMessage": "Sự hiện diện của anh Chung trong cột mốc quan trọng này là niềm vinh hạnh và động lực lớn đối với em, mong Chung đến chung vui cùng em Khánh.",
+    "dateAndTime": "12:00 PM - 6:00 PM Thứ Tư, Ngày 16/09/2026",
+    "locationName": "Trung tâm Hội nghị Quốc gia, Đại lộ Thăng Long, phường Từ Liêm, Hà Nội",
+    "contactInfo": {
+      "phone": "0978262446",
+      "facebookLink": "https://www.facebook.com/NamKhanhNgx/"
+    },
+    "closingMessage": "Người anh tôi đó !",
+    "googleMapsLink": "https://maps.app.goo.gl/hmoAypXa2K4N8u6v5",
+    "createdAt": "2026-08-30T15:02:11.854Z"
+  },
+  {
+    "id": "1c77fe0f-8360-4c16-b079-419949552fa9",
+    "slug": "149",
+    "leftPageImage": "dhoc.jpg",
+    "title": "Trân trọng kính mời đến dự",
+    "senderName": "Lễ Tốt Nghiệp",
+    "personName": "Nam Khánh - TRƯỞNG NHÓM",
+    "openingMessage": "Khánh rất mong sự hiện diện của Hiển - SA Misa, Long - Full Stack Dev C#, Thái - Senior Devops Fsoft đến dự lễ tốt nghiệp của mình, các chàng lính ngự lâm.",
+    "dateAndTime": "10:00 AM - 12:00 PM Thứ Tư, Ngày 16/09/2026",
+    "locationName": "Trung tâm Hội nghị Quốc gia, Đại lộ Thăng Long, phường Từ Liêm, Hà Nội",
+    "contactInfo": {
+      "phone": "0978262446",
+      "facebookLink": "https://www.facebook.com/NamKhanhNgx/"
+    },
+    "closingMessage": "Rất quý anh em, mong anh em đến, ae mình nói ít, hiểu nhiều !",
+    "googleMapsLink": "https://maps.app.goo.gl/hmoAypXa2K4N8u6v5",
+    "createdAt": "2026-08-30T15:11:06.275Z"
+  },
+  {
+    "id": "6fb02716-9d4c-46df-a194-0fcd9a632a85",
+    "slug": "5ae",
+    "leftPageImage": "sample.jpg",
+    "title": "Trân trọng kính mời đến dự",
+    "senderName": "Lễ Tốt Nghiệp",
+    "personName": "Nam Khánh",
+    "openingMessage": "Sự hiện diện của 6 anh em (Huy, Văn, Trí, Minh Vũ, Bốp) trong cột mốc quan trọng này là niềm vinh hạnh và động lực lớn đối với Khánh.",
+    "dateAndTime": "10:00 AM - 1:00 PM Thứ Tư, Ngày 16/09/2026",
+    "locationName": "Trung tâm Hội nghị Quốc gia, Đại lộ Thăng Long, phường Từ Liêm, Hà Nội",
+    "contactInfo": {
+      "phone": "0978262446",
+      "facebookLink": "https://www.facebook.com/NamKhanhNgx/"
+    },
+    "closingMessage": "Rất mong được đón tiếp anh em. Xin chân thành cảm ơn!",
+    "googleMapsLink": "https://maps.app.goo.gl/hmoAypXa2K4N8u6v5",
+    "createdAt": "2026-08-30T15:14:39.823Z"
+  },
+  {
+    "id": "34dd99c5-2a3d-4682-bae1-16d4b835ffe4",
+    "slug": "daohuyen",
+    "leftPageImage": "dao.jpg",
+    "title": "Trân trọng kính mời đến dự",
+    "senderName": "Lễ Tốt Nghiệp",
+    "personName": "Nam Khánh",
+    "openingMessage": "Sự hiện diện của Huyền trong cột mốc quan trọng này là niềm vinh hạnh và động lực lớn đối với Khánh.",
+    "dateAndTime": "10:00 AM - 12:00 PM Thứ Tư, Ngày 16/09/2026",
+    "locationName": "Trung tâm Hội nghị Quốc gia, Đại lộ Thăng Long, phường Từ Liêm, Hà Nội",
+    "contactInfo": {
+      "phone": "0978262446",
+      "facebookLink": "https://www.facebook.com/NamKhanhNgx/"
+    },
+    "closingMessage": "Đến nhé !",
+    "googleMapsLink": "https://maps.app.goo.gl/hmoAypXa2K4N8u6v5",
+    "createdAt": "2026-08-30T15:18:14.498Z"
+  },
+  {
+    "id": "cd171709-2d6b-4edc-af9a-d58e88f3b1ee",
+    "slug": "duongdan",
+    "leftPageImage": "thuyduong.jpg",
+    "title": "Trân trọng kính mời đến dự",
+    "senderName": "Lễ Tốt Nghiệp",
+    "personName": "Nam Khánh",
+    "openingMessage": "Mời bạn Dắn dành chút thời gian tham dự lễ Tốt nghiệp mình nhé, rất quý Dắn, hãy đi để Khánh có cơ hội đáp lễ và se duyên cho bạn !",
+    "dateAndTime": "10:00 AM - 12:00 PM Thứ Tư, Ngày 16/09/2026",
+    "locationName": "Trung tâm Hội nghị Quốc gia, Đại lộ Thăng Long, phường Từ Liêm, Hà Nội",
+    "contactInfo": {
+      "phone": "0978262446",
+      "facebookLink": "https://www.facebook.com/NamKhanhNgx/"
+    },
+    "closingMessage": "Rất mong được đón tiếp Thùy Dương - Dắn. Xin chân thành cảm ơn!",
+    "googleMapsLink": "https://maps.app.goo.gl/hmoAypXa2K4N8u6v5",
+    "createdAt": "2026-08-30T15:19:54.564Z"
+  },
+  {
+    "id": "504abbfb-6482-4724-9285-195a2747fdae",
+    "slug": "tvs",
+    "leftPageImage": "phanh.jpg",
+    "title": "Trân trọng kính mời đến dự",
+    "senderName": "Lễ Tốt Nghiệp",
+    "personName": "Nam Khánh",
+    "openingMessage": "Sự hiện diện của các bạn trong cột mốc quan trọng này là niềm vinh hạnh và động lực lớn đối với mình.",
+    "dateAndTime": "10:00 AM - 12:00 PM Thứ Tư, Ngày 16/09/2026",
+    "locationName": "Trung tâm Hội nghị Quốc gia, Đại lộ Thăng Long, phường Từ Liêm, Hà Nội",
+    "contactInfo": {
+      "phone": "0978262446",
+      "facebookLink": "https://www.facebook.com/NamKhanhNgx/"
+    },
+    "closingMessage": "Rất mong được đón tiếp anh em, tôi rất nhớ anh em !",
+    "googleMapsLink": "https://maps.app.goo.gl/hmoAypXa2K4N8u6v5",
+    "createdAt": "2026-08-30T15:23:54.346Z"
+  },
+  {
+    "id": "c79ec695-fcf4-4683-b37f-54e08f0c9cc1",
+    "slug": "pbh",
+    "leftPageImage": "huy.jpg",
+    "title": "Trân trọng kính mời đến dự",
+    "senderName": "Lễ Tốt Nghiệp",
+    "personName": "Nam Khánh",
+    "openingMessage": "Anh bạn Bảo Huy - Tri kỷ của Khánh - Hãy đến nhé, tôi đợi bạn.",
+    "dateAndTime": "10:00 AM - 12:00 PM Thứ Tư, Ngày 16/09/2026",
+    "locationName": "Trung tâm Hội nghị Quốc gia, Đại lộ Thăng Long, phường Từ Liêm, Hà Nội",
+    "contactInfo": {
+      "phone": "0978262446",
+      "facebookLink": "https://www.facebook.com/NamKhanhNgx/"
+    },
+    "closingMessage": "Phố cổ - Tán là đổ - Gái cả rổ - Không phải khổ !",
+    "googleMapsLink": "https://maps.app.goo.gl/hmoAypXa2K4N8u6v5",
+    "createdAt": "2026-08-30T15:24:54.567Z"
+  },
+  {
+    "id": "31a8f282-a08b-4f7a-a2b0-f0b4e34b8c02",
+    "slug": "khangle",
+    "leftPageImage": "khang.jpg",
+    "title": "Trân trọng kính mời đến dự",
+    "senderName": "Lễ Tốt Nghiệp",
+    "personName": "Nam Khánh",
+    "openingMessage": "Sự hiện diện của Khang trong cột mốc quan trọng này là niềm vinh hạnh và động lực lớn đối với Khánh.",
+    "dateAndTime": "10:00 AM - 12:00 PM Thứ Tư, Ngày 16/09/2026",
+    "locationName": "Trung tâm Hội nghị Quốc gia, Đại lộ Thăng Long, phường Từ Liêm, Hà Nội",
+    "contactInfo": {
+      "phone": "0978262446",
+      "facebookLink": "https://www.facebook.com/NamKhanhNgx/"
+    },
+    "closingMessage": "Tri kỷ 10 năm +, hãy đến nhé !",
+    "googleMapsLink": "https://maps.app.goo.gl/hmoAypXa2K4N8u6v5",
+    "createdAt": "2026-08-30T15:26:18.560Z"
+  },
+  {
+    "id": "8006093b-b4f1-4e51-9b11-34e9cde8dda8",
+    "slug": "duyvuong",
+    "leftPageImage": "duy.jpg",
+    "title": "Trân trọng kính mời đến dự",
+    "senderName": "Lễ Tốt Nghiệp",
+    "personName": "Nam Khánh",
+    "openingMessage": "Sự hiện diện của Duy trong cột mốc quan trọng này là niềm vinh hạnh và động lực lớn đối với Khánh.",
+    "dateAndTime": "10:00 AM - 12:00 PM Thứ Tư, Ngày 16/09/2026",
+    "locationName": "Trung tâm Hội nghị Quốc gia, Đại lộ Thăng Long, phường Từ Liêm, Hà Nội",
+    "contactInfo": {
+      "phone": "0978262446",
+      "facebookLink": "https://www.facebook.com/NamKhanhNgx/"
+    },
+    "closingMessage": "Người anh em - chúng ta nói ít hiểu nhiều, đến nhé !",
+    "googleMapsLink": "https://maps.app.goo.gl/hmoAypXa2K4N8u6v5",
+    "createdAt": "2026-08-30T15:27:54.186Z"
+  },
+  {
+    "id": "eeed0d5c-857e-4acf-87c9-2a01d86e6fb0",
+    "slug": "specialperson",
+    "leftPageImage": "tcow.jpg",
+    "title": "BUỔI GẶP MẶT",
+    "senderName": "Lễ Tốt Nghiệp",
+    "personName": "Nam Khánh",
+    "openingMessage": "Khánh mong được gặp Cao Trang trong lễ tốt nghiệp, ngày vui của Trang - cũng là ngày vui của tớ. Trang dành cho tớ chút thời gian nhé !",
+    "dateAndTime": "10:00 AM - 6:00 PM Thứ Tư, Ngày 16/09/2026",
+    "locationName": "Trung tâm Hội nghị Quốc gia, Đại lộ Thăng Long, phường Từ Liêm, Hà Nội",
+    "contactInfo": {
+      "phone": "0978262446",
+      "facebookLink": "https://www.facebook.com/NamKhanhNgx/"
+    },
+    "closingMessage": "Khánh chờ Trang ! Cảm ơn Trang.",
+    "googleMapsLink": "https://maps.app.goo.gl/hmoAypXa2K4N8u6v5",
+    "createdAt": "2026-08-30T15:28:46.794Z"
+  }
+]
