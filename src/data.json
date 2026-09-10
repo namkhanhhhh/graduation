@@ -7,7 +7,7 @@
     "senderName": "Lễ Tốt Nghiệp",
     "personName": "Nguyễn Nam Khánh",
     "openingMessage": "Sự hiện diện của anh Chung trong cột mốc quan trọng này là niềm vinh hạnh và động lực lớn đối với em, mong Chung đến chung vui cùng em Khánh.",
-    "dateAndTime": "12:00 PM - 6:00 PM Thứ Tư, Ngày 16/09/2026",
+    "dateAndTime": "11:00 PM - 6:00 PM Thứ Tư, Ngày 16/09/2026",
     "locationName": "Trung tâm Hội nghị Quốc gia, Đại lộ Thăng Long, phường Từ Liêm, Hà Nội",
     "contactInfo": {
       "phone": "0978262446",
@@ -43,7 +43,7 @@
     "senderName": "Lễ Tốt Nghiệp",
     "personName": "Nam Khánh",
     "openingMessage": "Sự hiện diện của 6 anh em (Huy, Văn, Trí, Minh Vũ, Bốp) trong cột mốc quan trọng này là niềm vinh hạnh và động lực lớn đối với Khánh.",
-    "dateAndTime": "10:00 AM - 1:00 PM Thứ Tư, Ngày 16/09/2026",
+    "dateAndTime": "10:00 AM - 12:00 PM Thứ Tư, Ngày 16/09/2026",
     "locationName": "Trung tâm Hội nghị Quốc gia, Đại lộ Thăng Long, phường Từ Liêm, Hà Nội",
     "contactInfo": {
       "phone": "0978262446",
@@ -103,7 +103,7 @@
       "phone": "0978262446",
       "facebookLink": "https://www.facebook.com/NamKhanhNgx/"
     },
-    "closingMessage": "Rất mong được đón tiếp anh em, tôi rất nhớ anh em !",
+    "closingMessage": "Rất mong được đón tiếp anh em !",
     "googleMapsLink": "https://maps.app.goo.gl/hmoAypXa2K4N8u6v5",
     "createdAt": "2026-08-30T15:23:54.346Z"
   },
@@ -139,7 +139,7 @@
       "phone": "0978262446",
       "facebookLink": "https://www.facebook.com/NamKhanhNgx/"
     },
-    "closingMessage": "Tri kỷ 10 năm +, hãy đến nhé !",
+    "closingMessage": "Tri kỷ 10 năm + !",
     "googleMapsLink": "https://maps.app.goo.gl/hmoAypXa2K4N8u6v5",
     "createdAt": "2026-08-30T15:26:18.560Z"
   },
@@ -157,7 +157,7 @@
       "phone": "0978262446",
       "facebookLink": "https://www.facebook.com/NamKhanhNgx/"
     },
-    "closingMessage": "Người anh em - chúng ta nói ít hiểu nhiều, đến nhé !",
+    "closingMessage": "Người anh em - chúng ta nói ít hiểu nhiều !",
     "googleMapsLink": "https://maps.app.goo.gl/hmoAypXa2K4N8u6v5",
     "createdAt": "2026-08-30T15:27:54.186Z"
   },
