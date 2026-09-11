@@ -214,5 +214,23 @@
     "closingMessage": "Rất mong được đón tiếp em !!",
     "googleMapsLink": "https://maps.app.goo.gl/hmoAypXa2K4N8u6v5",
     "createdAt": "2026-09-10T16:01:17.170Z"
+  },
+  {
+    "id": "8578e7af-cfcc-44fd-9cd5-cb320f7e8e03",
+    "slug": "diemm",
+    "leftPageImage": "diem.jpg",
+    "title": "Trân trọng kính mời đến dự",
+    "senderName": "Lễ Tốt Nghiệp",
+    "personName": "Nam Khánh",
+    "openingMessage": "Tôi hân hạnh mời Minh Phương  (Diem) - Đến dự lễ tốt nghiệp - cũng là một trong những thành tựu lớn của tôi, mong có sự góp mặt của bạn.",
+    "dateAndTime": "10:00 AM - 12:00 PM Thứ Tư, Ngày 16/09/2026",
+    "locationName": "Trung tâm Hội nghị Quốc gia, Đại lộ Thăng Long, phường Từ Liêm, Hà Nội",
+    "contactInfo": {
+      "phone": "0978262446",
+      "facebookLink": "https://www.facebook.com/NamKhanhNgx/"
+    },
+    "closingMessage": "Rất mong được đón tiếp bạn. Xin chân thành cảm ơn!",
+    "googleMapsLink": "https://maps.app.goo.gl/hmoAypXa2K4N8u6v5",
+    "createdAt": "2026-09-11T01:42:30.860Z"
   }
 ]
