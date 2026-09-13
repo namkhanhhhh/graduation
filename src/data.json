@@ -232,5 +232,23 @@
     "closingMessage": "Rất mong được đón tiếp bạn. Xin chân thành cảm ơn!",
     "googleMapsLink": "https://maps.app.goo.gl/hmoAypXa2K4N8u6v5",
     "createdAt": "2026-09-11T01:42:30.860Z"
+  },
+  {
+    "id": "0d550759-5097-46de-8a30-34b84f66c49e",
+    "slug": "cunn",
+    "leftPageImage": "cunn.jpg",
+    "title": "Trân trọng kính mời đến dự",
+    "senderName": "Lễ Tốt Nghiệp",
+    "personName": "Nam Khánh",
+    "openingMessage": "Sự hiện diện của Chị Cún trong cột mốc quan trọng này là niềm vinh hạnh và động lực lớn đối với eim. Nếu sắp xếp được chị Cún đến chung vui cùng eim ạ !",
+    "dateAndTime": "10:00 AM - 12:00 PM Thứ Tư, Ngày 16/09/2026",
+    "locationName": "Trung tâm Hội nghị Quốc gia, Đại lộ Thăng Long, phường Từ Liêm, Hà Nội",
+    "contactInfo": {
+      "phone": "0978262446",
+      "facebookLink": "https://www.facebook.com/NamKhanhNgx/"
+    },
+    "closingMessage": "Rất mong được đón tiếpp. Em xinn chân thành cảm ơn!",
+    "googleMapsLink": "https://maps.app.goo.gl/hmoAypXa2K4N8u6v5",
+    "createdAt": "2026-09-13T17:34:33.349Z"
   }
 ]
