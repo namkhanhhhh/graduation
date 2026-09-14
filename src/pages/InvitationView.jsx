@@ -14,7 +14,7 @@ const InvitationView = () => {
     // Determine the actual slug (default to 'sample' if at root)
     const activeSlug = slug || 'sample';
     const data = getInvitationBySlug(activeSlug);
-    
+
     if (data) {
       setConfig(data);
     } else if (!slug) {
@@ -31,14 +31,11 @@ const InvitationView = () => {
       <div style={{ padding: '2rem', textAlign: 'center' }}>
         <h2>Không tìm thấy thiệp</h2>
         <p>URL không hợp lệ hoặc thiệp đã bị xóa.</p>
-        <button onClick={() => navigate('/admin')} style={{ padding: '10px 20px', marginTop: '20px' }}>
-          Về trang quản lý
-        </button>
       </div>
     );
   }
 
-  return <InvitationCard config={{...config, leftPageImage: getImageUrl(config.leftPageImage)}} />;
+  return <InvitationCard config={{ ...config, leftPageImage: getImageUrl(config.leftPageImage) }} />;
 };
 
 export default InvitationView;
